@@ -1,10 +1,18 @@
 - 👋 Hi, I’m @akash mambally
-- 👀 I’m interested in not just tech but also into mobility.
+
+- 👀 I’m interested in not just tech but also into sustainable mobility [EVs].
 - 🌱 I’m currently learning new skills in app deployment.
 - 💞️ I’m looking to collaborate on image processing projects using python.
 
 ----
-###- 📫 How to reach me simple ...
+### Skills
+
+- Programming experience in  Python, C/C++, Javascript.
+- Experience in developing / implementing algorithms.
+- Knowledge of working on different independent freelance projects.
+
+
+- 📫 How to reach me simple ...
 
 
 [twitter](https://twitter.com/akash_tvm)
