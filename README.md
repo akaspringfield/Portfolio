@@ -2,10 +2,10 @@
 - 👀 I’m interested in not just tech but also into mobility.
 - 🌱 I’m currently learning new skills in app deployment.
 - 💞️ I’m looking to collaborate on image processing projects using python.
-- 📫 How to reach me via ...
 
 ----
-###Links
+###- 📫 How to reach me simple ...
+
 
 [twitter](https://twitter.com/akash_tvm)
 
