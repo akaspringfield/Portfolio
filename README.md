@@ -12,10 +12,7 @@
 - Knowledge of working on different independent freelance projects.
 
 
-- 📫 How to reach me simple ...
-
-
-[twitter](https://twitter.com/akash_tvm)
+- 📫 reach me : [twitter](https://twitter.com/akash_tvm)
 
 <!---
 akaspringfield/akaspringfield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
