@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akash mambally
 
 - 👀 I’m interested in not just tech but also into sustainable mobility [EVs].
-- 🌱 I’m currently learning new skills in app deployment.
+- 🌱 I’m currently learning new skills for app deployment.
 - 💞️ I’m looking to collaborate on image processing projects using python.
 
 ----
