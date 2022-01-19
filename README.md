@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akash mambally
 
-- 👀 I’m interested in not just tech but also into sustainable mobility [EV].
+- 👀 I’m interested in not just tech but also into sustainable energy/mobility [EV].
 - 🌱 Currently working on python, some flutter apps learning new skills in app deplopment and deployment.
 - 💞️ I’m looking to collaborate on image processing projects using python.
 
