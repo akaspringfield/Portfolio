@@ -4,7 +4,7 @@ This is an portfolio project
 
 [Live Heroku Deployment](https://portfolioakash.herokuapp.com/)
 
-[image](https://user-images.githubusercontent.com/)
+[Twitter Connect](https://twitter.com/akash_tvm)
 
 ## Technologies Used
 
