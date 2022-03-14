@@ -1,8 +1,8 @@
 # Portfolio
-This is sample portfolio project
+This is an portfolio project
 
 
-[Live Heroku Deployment](https://portfoliodeekshith.herokuapp.com/)
+[Live Heroku Deployment](https://portfolioakash.herokuapp.com/)
 
 [image](https://user-images.githubusercontent.com/82606224/115122413-7e416f00-9fd5-11eb-904f-27e2d7b1ef1e.png)
 
