@@ -8,7 +8,7 @@
 ### Skills
 
 - Programming experience in  Python, C/C++, Javascript.
-- Experience in developing / implementing algorithms.
+- Experience in developing / implementing APIs.
 - Knowledge of working on different independent freelance projects.
 
 
