@@ -1,6 +1,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakaspringfield%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
 
+                            
+![GitHub Views](https://komarev.com/ghpvc/?username=akashspringfeild&color=FAC151)
+
+
 -    👋 Hi, I’m @akash mambally
 - 👀 I’m interested in not just tech but also into sustainable energy/mobility [EV].
 - 🌱 Currently working on python django REST API, learning flutter apps deplopment and deployment.
@@ -18,5 +22,3 @@ You can click the Preview link to take a look at your changes.
 --->                                  
                                         
                                           
-                            
-![GitHub Views](https://komarev.com/ghpvc/?username=akashspringfeild&color=FAC151)
