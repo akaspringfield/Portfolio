@@ -10,6 +10,7 @@ This is an portfolio project
 
 * HTML
 * CSS
+* JavaScript
 
 ## Instalation
 
