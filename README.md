@@ -15,9 +15,8 @@ This is an portfolio project
 
 ## Instalation
 
-No need to install any softwares. Just use index.html
+No need to install any softwares. Just [click hear](https://akaspringfield.github.io/Portfolio/)
 
 ## How to use
 
-Use this template as to build your own portfolio
-
+You can youe this template as to build your own portfolio
