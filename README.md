@@ -1,21 +1,21 @@
+# Portfolio
+This is sample portfolio project
 
- ![GitHub Views](https://komarev.com/ghpvc/?username=akashspringfeild&color=FAC151)
 
+[Live Heroku Deployment](https://portfoliodeekshith.herokuapp.com/)
 
--    👋 Hi, I’m @akash mambally
-- 👀 I’m interested in not just tech but also into sustainable energy/mobility [EV].
-- 🌱 Currently working on python django REST API, learning flutter apps deplopment and deployment.
-- 💞️ I’m looking to collaborate on image processing projects using python.
+[image](https://user-images.githubusercontent.com/82606224/115122413-7e416f00-9fd5-11eb-904f-27e2d7b1ef1e.png)
 
-----
-### Skills
-- Programming experience in  Python, C/C++, Javascript.
-- Experience in developing / implementing APIs.
-- Knowledge of working on different independent freelance projects.
-- 📫 reach me : [twitter](https://twitter.com/akash_tvm)
-<!---
-akaspringfield/akaspringfield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->                                  
-                                        
-                                          
+## Technologies Used
+
+* HTML
+* CSS
+
+## Instalation
+
+No need to install any softwares. Just use index.html
+
+## How to use
+
+Use this template as to build your own portfolio
+
